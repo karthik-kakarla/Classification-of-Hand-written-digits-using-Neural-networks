@@ -10,6 +10,6 @@ Achieved an accuracy of 95% on the test data and validation data.
 Note:
 
 • Project description is available in the file assignment.pdf
-• Code is available in nnScript.py and the learned weights is saved in
-params.pickle file.
-• The report is available in proj1_group57.pdf file.
+• Code is available in code/nnScript.py and the learned weights is saved in
+code/params.pickle file.
+• The report is available in report/proj1_group57.pdf file.
